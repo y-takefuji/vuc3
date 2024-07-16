@@ -1,7 +1,8 @@
 # vuc3
 [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/6096647/tree)
 
-This is under review.
+Takefuji Y. Time-series vaccine effects on preventing COVID-19 infection and death among adults aged 50-64 and 65+,
+Archives of Gerontology and Geriatrics Plus, 2024, 100063, ISSN 2950-3078, https://doi.org/10.1016/j.aggp.2024.100063.
 
 vuc3.py is a Python program to invesitigate effects of vaccines on COVID-19 mortality and infection between the second booster, the first booster, fully vaccinated and unvaccinated.
 
